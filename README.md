@@ -1,59 +1,72 @@
-<h1 align="center">🎓 Student Management System</h1>
+<h1 align="center">
+🎓 Student Management System
+</h1>
+
+<h3 align="center">
+Java + JDBC + MySQL CRUD Application 🚀
+</h3>
 
 <p align="center">
-  <b>Console-Based CRUD Application using Java, JDBC & MySQL</b>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Console+Based+Student+Management+System;Built+Using+Java+%2B+JDBC+%2B+MySQL;CRUD+Operations+With+Validation;Backend+Project+For+Java+Full+Stack"/>
+
 </p>
 
 ---
 
-# 🚀 Project Overview
+<p align="center">
 
-A professional console-based **Student Management System** built using:
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project-Backend-blueviolet?style=for-the-badge"/>
 
-- ✅ Java
-- ✅ JDBC
-- ✅ MySQL
-- ✅ Object-Oriented Programming
-- ✅ DAO Design Pattern
+</p>
 
-This project performs full CRUD operations with validation and database connectivity.
+---
+
+# 🚀 About Project
+
+A professional **console-based Student Management System** built using:
+
+✅ Java  
+✅ JDBC  
+✅ MySQL  
+✅ DAO Design Pattern  
+✅ OOP Concepts  
+
+This project performs complete CRUD operations with real-time validation and database integration.
 
 ---
 
 # ✨ Features
 
-✅ Add Student  
-✅ View Students  
-✅ Search Student  
-✅ Update Student  
-✅ Delete Student  
-✅ Email Validation  
-✅ Phone Number Validation  
-✅ Duplicate Email Prevention  
-✅ Loop-Based Console Menu  
-✅ JDBC Database Connectivity  
+| Feature | Status |
+|----------|--------|
+| Add Student | ✅ |
+| View Students | ✅ |
+| Search Student | ✅ |
+| Update Student | ✅ |
+| Delete Student | ✅ |
+| Email Validation | ✅ |
+| Phone Validation | ✅ |
+| Duplicate Email Prevention | ✅ |
+| Loop Menu System | ✅ |
 
 ---
 
 # 🛠️ Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| Java | Backend Logic |
-| JDBC | Database Connectivity |
-| MySQL | Database |
-| VS Code | Development Environment |
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github"/>
+
+</p>
 
 ---
 
-# 📁 Project Structure
+# 📂 Project Structure
 
 ```bash
 StudentManagementSystem
@@ -73,21 +86,23 @@ StudentManagementSystem
 
 ---
 
-# 🗄️ Database Details
+# 🗄️ Database Configuration
 
-### Database Name
+## Database Name
+
 ```sql
 student_management_system
 ```
 
-### Table Name
+## Table Name
+
 ```sql
 students
 ```
 
 ---
 
-# ⚙️ How To Run
+# ⚡ How To Run
 
 ## 1️⃣ Clone Repository
 
@@ -97,9 +112,9 @@ git clone https://github.com/codefuser/student-management-system-java.git
 
 ---
 
-## 2️⃣ Open Project
+## 2️⃣ Open In VS Code
 
-Open in VS Code.
+Open the project folder.
 
 ---
 
@@ -119,76 +134,86 @@ java -cp ".;../lib/mysql-connector-j-9.7.0.jar" App
 
 ---
 
-# 📸 Project Screenshots
+# 📸 Screenshots
+
+---
 
 ## 🖥️ Main Menu
 
-_Add screenshot here_
+![Main Menu](screenshots/main-menu.png)
 
 ---
 
 ## ➕ Add Student
 
-_Add screenshot here_
+![Add Student](screenshots/add-student.png)
 
 ---
 
 ## 📋 View Students
 
-_Add screenshot here_
+![View Students](screenshots/view-students.png)
 
 ---
 
 ## 🔍 Search Student
 
-_Add screenshot here_
+![Search Student](screenshots/search-student.png)
 
 ---
 
 ## ✏️ Update Student
 
-_Add screenshot here_
+![Update Student](screenshots/update-student.png)
 
 ---
 
 ## ❌ Delete Student
 
-_Add screenshot here_
+![Delete Student](screenshots/delete-student.png)
+
+---
+
+## 🗄️ MySQL Database
+
+![MySQL Table](screenshots/mysql-table.png)
 
 ---
 
 # 📚 Concepts Used
 
-- Object-Oriented Programming
-- DAO Pattern
-- JDBC Connectivity
-- SQL Queries
-- PreparedStatement
-- ResultSet
-- Validation Logic
-- Exception Handling
+✅ Object-Oriented Programming  
+✅ JDBC Connectivity  
+✅ DAO Pattern  
+✅ PreparedStatement  
+✅ ResultSet  
+✅ CRUD Operations  
+✅ Validation Logic  
+✅ Exception Handling  
 
 ---
 
-# 🎯 Future Improvements
+# 🚀 Future Improvements
 
-🚀 Swing GUI  
-🚀 JavaFX UI  
-🚀 Login System  
-🚀 Admin Dashboard  
-🚀 Export CSV  
-🚀 File Handling  
+🔹 Swing GUI  
+🔹 JavaFX UI  
+🔹 Login System  
+🔹 Admin Dashboard  
+🔹 File Handling  
+🔹 CSV Export  
 
 ---
 
 # 👨‍💻 Author
 
-### Joseph
+<h3>Joseph</h3>
 
-<p align="left">
-  <a href="https://github.com/codefuser">
-    <img src="https://img.shields.io/badge/GitHub-codefuser-black?style=for-the-badge&logo=github"/>
-  </a>
+<p>
+
+<a href="https://github.com/codefuser">
+<img src="https://img.shields.io/badge/GitHub-codefuser-black?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
@@ -197,8 +222,12 @@ _Add screenshot here_
 
 If you like this project:
 
-🌟 Star this repository  
+⭐ Star this repository  
 🍴 Fork this repository  
 📢 Share with others  
 
 ---
+
+<h3 align="center">
+🔥 Thank You For Visiting 🔥
+</h3>
