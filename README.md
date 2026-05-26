@@ -1,6 +1,4 @@
-<h1 align="center">
-🎓 Student Management System
-</h1>
+<h1 align="center">🎓 Student Management System</h1>
 
 <h3 align="center">
 Java + JDBC + MySQL CRUD Application 🚀
@@ -8,7 +6,7 @@ Java + JDBC + MySQL CRUD Application 🚀
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Console+Based+Student+Management+System;Built+Using+Java+%2B+JDBC+%2B+MySQL;CRUD+Operations+With+Validation;Backend+Project+For+Java+Full+Stack"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+To+My+Java+Backend+Project;Student+Management+System;Built+Using+Java+%2B+JDBC+%2B+MySQL;CRUD+Operations+With+Validation;Java+Full+Stack+Backend+Project"/>
 
 </p>
 
@@ -16,11 +14,19 @@ Java + JDBC + MySQL CRUD Application 🚀
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Project-Backend-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
 </p>
 
@@ -33,14 +39,16 @@ A professional **console-based Student Management System** built using:
 ✅ Java  
 ✅ JDBC  
 ✅ MySQL  
+✅ Object-Oriented Programming  
 ✅ DAO Design Pattern  
-✅ OOP Concepts  
 
-This project performs complete CRUD operations with real-time validation and database integration.
+This project performs complete CRUD operations with validation and database integration.
 
 ---
 
 # ✨ Features
+
+<div align="center">
 
 | Feature | Status |
 |----------|--------|
@@ -53,14 +61,27 @@ This project performs complete CRUD operations with real-time validation and dat
 | Phone Validation | ✅ |
 | Duplicate Email Prevention | ✅ |
 | Loop Menu System | ✅ |
+| JDBC Connectivity | ✅ |
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github"/>
+
+</p>
+
+---
+
+# 🎞️ Tech Stack Animation
+
+<p align="center">
+
+<img src="https://readme-marquee.vercel.app/api?text=☕%20JAVA%20%20%20⚡%20JDBC%20%20%20🛢️%20MYSQL%20%20%20💻%20VS%20CODE%20%20%20🌿%20GIT%20%20%20🚀%20GITHUB&font=Fira%20Code&speed=40&width=1000&color=00BFFF"/>
 
 </p>
 
@@ -112,9 +133,9 @@ git clone https://github.com/codefuser/student-management-system-java.git
 
 ---
 
-## 2️⃣ Open In VS Code
+## 2️⃣ Open Project
 
-Open the project folder.
+Open project in VS Code.
 
 ---
 
@@ -134,62 +155,128 @@ java -cp ".;../lib/mysql-connector-j-9.7.0.jar" App
 
 ---
 
-# 📸 Screenshots
+# 📸 Project Screenshots
 
 ---
 
 ## 🖥️ Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+<p align="center">
+<img src="screenshots/main-menu.png" width="900"/>
+</p>
 
 ---
 
 ## ➕ Add Student
 
-![Add Student](screenshots/add-student.png)
+<p align="center">
+<img src="screenshots/add-student.png" width="900"/>
+</p>
 
 ---
 
 ## 📋 View Students
 
-![View Students](screenshots/view-students.png)
+<p align="center">
+<img src="screenshots/view-students.png" width="900"/>
+</p>
 
 ---
 
 ## 🔍 Search Student
 
-![Search Student](screenshots/search-student.png)
+<p align="center">
+<img src="screenshots/search-student.png" width="900"/>
+</p>
 
 ---
 
 ## ✏️ Update Student
 
-![Update Student](screenshots/update-student.png)
+<p align="center">
+<img src="screenshots/update-student.png" width="900"/>
+</p>
 
 ---
 
 ## ❌ Delete Student
 
-![Delete Student](screenshots/delete-student.png)
+<p align="center">
+<img src="screenshots/delete-student.png" width="900"/>
+</p>
 
 ---
 
 ## 🗄️ MySQL Database
 
-![MySQL Table](screenshots/mysql-table.png)
+<p align="center">
+<img src="screenshots/mysql-table.png" width="900"/>
+</p>
 
 ---
 
 # 📚 Concepts Used
 
-✅ Object-Oriented Programming  
-✅ JDBC Connectivity  
-✅ DAO Pattern  
-✅ PreparedStatement  
-✅ ResultSet  
-✅ CRUD Operations  
-✅ Validation Logic  
-✅ Exception Handling  
+<div align="center">
+
+| Concept | Used |
+|----------|------|
+| OOP Concepts | ✅ |
+| DAO Pattern | ✅ |
+| JDBC Connectivity | ✅ |
+| PreparedStatement | ✅ |
+| ResultSet | ✅ |
+| CRUD Operations | ✅ |
+| Validation Logic | ✅ |
+| Exception Handling | ✅ |
+
+</div>
+
+---
+
+# 🌟 Support This Project
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/codefuser/student-management-system-java?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/forks/codefuser/student-management-system-java?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=codefuser&repo=student-management-system-java&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ❤️ Give Support
+
+<p align="center">
+
+<a href="https://github.com/codefuser/student-management-system-java">
+<img src="https://img.shields.io/badge/⭐%20Star%20Repository-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/codefuser/student-management-system-java/fork">
+<img src="https://img.shields.io/badge/🍴%20Fork%20Repository-blue?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/codefuser">
+<img src="https://img.shields.io/badge/GitHub-codefuser-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-fullstack/">
+<img src="https://img.shields.io/badge/LinkedIn-Joseph-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
@@ -199,35 +286,30 @@ java -cp ".;../lib/mysql-connector-j-9.7.0.jar" App
 🔹 JavaFX UI  
 🔹 Login System  
 🔹 Admin Dashboard  
-🔹 File Handling  
 🔹 CSV Export  
+🔹 File Handling  
+🔹 Authentication System  
 
 ---
 
 # 👨‍💻 Author
 
-<h3>Joseph</h3>
+<h3 align="center">Joseph</h3>
 
-<p>
+<p align="center">
 
-<a href="https://github.com/codefuser">
-<img src="https://img.shields.io/badge/GitHub-codefuser-black?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
 
 </p>
 
 ---
 
-# ⭐ Support
+<h2 align="center">
+🔥 Thank You For Visiting My Project 🔥
+</h2>
 
-If you like this project:
+<p align="center">
 
-⭐ Star this repository  
-🍴 Fork this repository  
-📢 Share with others  
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
----
-
-<h3 align="center">
-🔥 Thank You For Visiting 🔥
-</h3>
+</p>
