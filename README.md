@@ -77,11 +77,17 @@ This project performs complete CRUD operations with validation and database inte
 
 ---
 
-# 🎞️ Tech Stack Animation
+# 🎞️ Tech Stack
 
 <p align="center">
 
-<img src="https://readme-marquee.vercel.app/api?text=☕%20JAVA%20%20%20⚡%20JDBC%20%20%20🛢️%20MYSQL%20%20%20💻%20VS%20CODE%20%20%20🌿%20GIT%20%20%20🚀%20GITHUB&font=Fira%20Code&speed=40&width=1000&color=00BFFF"/>
+<img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Backend+Development;JDBC+Connectivity;MySQL+Database+Integration;Git+%26+GitHub;VS+Code+Development"/>
 
 </p>
 
