@@ -67,15 +67,6 @@ This project performs complete CRUD operations with validation and database inte
 
 ---
 
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github"/>
-
-</p>
-
----
 
 # 🎞️ Tech Stack
 
