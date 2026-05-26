@@ -77,20 +77,17 @@ This project performs complete CRUD operations with validation and database inte
 
 ---
 
-# 🎞️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,mysql,vscode,git,github"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+%7C+JDBC+%7C+MySQL;Backend+Development+Project;CRUD+Operations+With+Validation;GitHub+Portfolio+Project"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Backend+Development;JDBC+Connectivity;MySQL+Database+Integration;Git+%26+GitHub;VS+Code+Development"/>
-
-</p>
-
+</div>
 ---
 
 # 📂 Project Structure
